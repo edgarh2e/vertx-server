@@ -34,8 +34,8 @@
                 <interface>192.168.1.28</interface>
             </tcp-ip>
             <aws enabled="true">
-                <access-key>AKIAIHHALPKG4AIIQK5Q</access-key>
-                <secret-key>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</secret-key>
+                <access-key>XXXXXXXXXX</access-key>
+                <secret-key>xxxxxxxxxxxxxxxxxxx</secret-key>
                 <!--optional, default is us-east-1 -->
                 <region>us-west-2</region>
                 <!--optional, default is ec2.amazonaws.com. If set, region shouldn't be set as it will override this property -->
